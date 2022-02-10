@@ -2,6 +2,7 @@
 
 Weather_Database/config.py
 Vacation_Search/config.py
+Vacation_Itinerary/config.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
