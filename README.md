@@ -14,7 +14,7 @@ As we can see bellow, since user apply 86°F to 95°F many cities have came as r
 
 ![WeatherPy_vacation_map](https://user-images.githubusercontent.com/96633294/153523274-3129d6c3-493a-43e6-be6b-f8fc09a7e311.png)
 
-Since Mexico and United states are, for us, our target, we use some cities that are less popular so travelers and adveturers can discover new cities non popular and their attractions. 
+Since Mexico and United states are, for us, the target, we use some cities that are less popular so travelers and adveturers can discover new cities non popular and their attractions. 
 For that porpuse we selected four cities in United states near Mexican frontier so bicycle commuters can find a delimitated rute and Hotel's information so they can delimitate their trip and make a budget for that.  
 
 * Bellow our suggested rute: 
